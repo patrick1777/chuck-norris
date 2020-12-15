@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/chuck-norris/public/static/js/main.b511f772.chunk.js",
-    "main.js.map": "/chuck-norris/public/static/js/main.b511f772.chunk.js.map",
-    "runtime-main.js": "/chuck-norris/public/static/js/runtime-main.948a48f1.js",
-    "runtime-main.js.map": "/chuck-norris/public/static/js/runtime-main.948a48f1.js.map",
-    "static/js/2.f0f70dca.chunk.js": "/chuck-norris/public/static/js/2.f0f70dca.chunk.js",
-    "static/js/2.f0f70dca.chunk.js.map": "/chuck-norris/public/static/js/2.f0f70dca.chunk.js.map",
-    "index.html": "/chuck-norris/public/index.html",
-    "precache-manifest.fdb8e4be7edc211b9e3d93dafd169930.js": "/chuck-norris/public/precache-manifest.fdb8e4be7edc211b9e3d93dafd169930.js",
-    "service-worker.js": "/chuck-norris/public/service-worker.js",
-    "static/js/2.f0f70dca.chunk.js.LICENSE.txt": "/chuck-norris/public/static/js/2.f0f70dca.chunk.js.LICENSE.txt"
+    "main.js": "/chuck-norris/static/js/main.b511f772.chunk.js",
+    "main.js.map": "/chuck-norris/static/js/main.b511f772.chunk.js.map",
+    "runtime-main.js": "/chuck-norris/static/js/runtime-main.8311e6c5.js",
+    "runtime-main.js.map": "/chuck-norris/static/js/runtime-main.8311e6c5.js.map",
+    "static/js/2.f0f70dca.chunk.js": "/chuck-norris/static/js/2.f0f70dca.chunk.js",
+    "static/js/2.f0f70dca.chunk.js.map": "/chuck-norris/static/js/2.f0f70dca.chunk.js.map",
+    "index.html": "/chuck-norris/index.html",
+    "precache-manifest.8666862e5cea624f37547d00d8b68671.js": "/chuck-norris/precache-manifest.8666862e5cea624f37547d00d8b68671.js",
+    "service-worker.js": "/chuck-norris/service-worker.js",
+    "static/js/2.f0f70dca.chunk.js.LICENSE.txt": "/chuck-norris/static/js/2.f0f70dca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.948a48f1.js",
+    "static/js/runtime-main.8311e6c5.js",
     "static/js/2.f0f70dca.chunk.js",
     "static/js/main.b511f772.chunk.js"
   ]
